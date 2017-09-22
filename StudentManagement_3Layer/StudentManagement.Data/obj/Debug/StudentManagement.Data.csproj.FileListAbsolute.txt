@@ -1,0 +1,12 @@
+E:\MVCAss_1\StudentManagement_3Layer\StudentManagement.Data\bin\Debug\StudentManagement.Data.dll
+E:\MVCAss_1\StudentManagement_3Layer\StudentManagement.Data\bin\Debug\StudentManagement.Data.pdb
+E:\MVCAss_1\StudentManagement_3Layer\StudentManagement.Data\obj\Debug\StudentManagement.Data.dll
+E:\MVCAss_1\StudentManagement_3Layer\StudentManagement.Data\obj\Debug\StudentManagement.Data.pdb
+E:\MVCAss_1\StudentManagement_3Layer\StudentManagement.Data\obj\Debug\StudentManagement.Data.csprojResolveAssemblyReference.cache
+E:\MVCAss_1\StudentManagement_3Layer\StudentManagement.Data\bin\Debug\StudentManagement.Data.dll.config
+E:\MVCAss_1\StudentManagement_3Layer\StudentManagement.Data\bin\Debug\Autofac.dll
+E:\MVCAss_1\StudentManagement_3Layer\StudentManagement.Data\bin\Debug\EntityFramework.dll
+E:\MVCAss_1\StudentManagement_3Layer\StudentManagement.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\MVCAss_1\StudentManagement_3Layer\StudentManagement.Data\bin\Debug\Autofac.xml
+E:\MVCAss_1\StudentManagement_3Layer\StudentManagement.Data\bin\Debug\EntityFramework.xml
+E:\MVCAss_1\StudentManagement_3Layer\StudentManagement.Data\bin\Debug\EntityFramework.SqlServer.xml
